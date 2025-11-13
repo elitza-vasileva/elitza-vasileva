@@ -68,7 +68,7 @@ For creators, artists, devs to share their projects in a stunning way.
   
 ### 📊 Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=elitza-vasileva&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=elitza-vasileva&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
 </div>
 

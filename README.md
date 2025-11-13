@@ -64,13 +64,13 @@ For creators, artists, devs to share their projects in a stunning way.
 <br/>
 
 <!-- Stats Section -->
-<div align="center">
+<!-- <div align="center">
   
 ### 📊 Stats & Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=elitza-vasileva&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
-</div>
+</div> -->
 
 <br/>
 
